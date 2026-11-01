@@ -10,7 +10,7 @@
   "author": "Aaron Rosa",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.20.6",
+    "body-parser": "^1.20.9",
     "connect-multiparty": "^2.2.0",
     "express": "^4.22.1",
     "mongoose": "^6.13.10"
